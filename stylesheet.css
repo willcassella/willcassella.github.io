@@ -1,0 +1,32 @@
+.layout-list {
+    list-style-type: none;
+}
+
+.top-space-10 {
+    margin-top: 10px;
+}
+
+.top-space-20 {
+    margin-top: 20px;
+}
+
+.top-space-30 {
+    margin-top: 30px;
+}
+
+.top-space-70 {
+    margin-top: 70px;
+}
+
+.bottom-space-10 {
+    margin-bottom: 10px;
+}
+
+.bottom-space-70 {
+    margin-bottom: 70px;
+}
+
+.section-divider {
+    height: 10px;
+    color: #eee;
+}
